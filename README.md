@@ -32,11 +32,11 @@ A publicly available financial dataset used strictly for academic and educationa
 - CI/CD Pipeline (GitHub Actions / Jenkins)  
 - Automated model testing and deployment  
 
-### 🔹 Virtualization
+### 🔹 Virtualization (future integrtion)
 - Docker – Containerization of ML application  
 - Virtual Machines (VMs) for isolated environments  
 
-### 🔹 Multi-Cloud
+### 🔹 Multi-Cloud (future integration)
 - Amazon Web Services (AWS)  
 - Microsoft Azure  
 - Google Cloud Platform (GCP)  
